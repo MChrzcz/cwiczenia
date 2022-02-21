@@ -1,4 +1,6 @@
 function test()
 {
-  alert("Helo to ja test")
+  #funkcja do testow
+  alert("Helo to ja test");
+
 }
